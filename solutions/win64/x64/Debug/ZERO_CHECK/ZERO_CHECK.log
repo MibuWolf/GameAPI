@@ -1,0 +1,35 @@
+﻿  Checking Build System
+  CMake is re-running because E:/Code/GameAPI/solutions/win64/CMakeFiles/generate.stamp is out-of-date.
+    the file 'E:/Code/GameAPI/Code/CMakeLists.txt'
+    is newer than 'E:/Code/GameAPI/solutions/win64/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- BUILD_CPU_ARCHITECTURE = x64
+  -- BUILD_CPU_ARCHITECTURE = x64
+  -- CMAKE_SYSTEM_NAME = Windows
+  -- CMAKE_GENERATOR = Visual Studio 15 2017 Win64
+  -- CMAKE_CONFIGURATION_TYPES = Debug;Profile;Release
+  -- BUILD_PLATFORM = Win64
+  -- OPTION_PROFILE = ON
+  -- OPTION_PCH = ON
+  -- MSVC = 1
+  -- CRYENGINE_DIR = D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4
+  -- UNITY BUILD Enabled
+  -- Use Dynamic Linking (.dll/.so)
+  -- OUTPUT_DIRECTORY=E:/Code/GameAPI/bin/win_x64
+  -- copy_binary_files_to_target start Win64
+  -- copy_binary_files_to_target end
+  -- BUILD_CPU_ARCHITECTURE = x64
+  -- CMAKE_SYSTEM_NAME = Windows
+  -- CMAKE_GENERATOR = Visual Studio 15 2017 Win64
+  -- CMAKE_CONFIGURATION_TYPES = Debug;Profile;Release
+  -- BUILD_PLATFORM = Win64
+  -- OPTION_PROFILE = ON
+  -- OPTION_PCH = ON
+  -- MSVC = 1
+  -- CRYENGINE_DIR = D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4
+  -- UNITY BUILD Enabled
+  -- Use Dynamic Linking (.dll/.so)
+  -- OUTPUT_DIRECTORY=E:/Code/GameAPI/bin/win_x64
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: E:/Code/GameAPI/solutions/win64

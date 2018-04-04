@@ -1,0 +1,9 @@
+E:\Code\GameAPI\solutions\Game\bin\Debug\Game.dll
+E:\Code\GameAPI\solutions\Game\bin\Debug\Game.pdb
+E:\Code\GameAPI\bin\Game.dll
+E:\Code\GameAPI\bin\Game.pdb
+E:\Code\GameAPI\solutions\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Code\GameAPI\solutions\Game\obj\Debug\Game.csproj.CopyComplete
+E:\Code\GameAPI\solutions\Game\obj\Debug\Game.dll
+E:\Code\GameAPI\solutions\Game\obj\Debug\Game.pdb
+E:\Code\GameAPI\solutions\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Code\GameAPI\Code\StdAfx.cpp" />
+    <ClCompile Include="E:\Code\GameAPI\solutions\win64\Code_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\GameAPI\solutions\win64\Components_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Code\Help\ToCSharp.cpp">
+      <Filter>Help</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Code\GameAPI\Code\GamePlugin.cpp" />
+    <ClInclude Include="E:\Code\GameAPI\Code\IGameAPI.cpp" />
+    <ClInclude Include="E:\Code\GameAPI\Code\GameAPIBridge.cpp" />
+    <ClInclude Include="E:\Code\GameAPI\Code\GameAPIBridge.h" />
+    <ClInclude Include="E:\Code\GameAPI\Code\GamePlugin.h" />
+    <ClInclude Include="E:\Code\GameAPI\Code\StdAfx.h" />
+    <ClInclude Include="E:\Code\GameAPI\Code\Include\IGameAPI.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Include\IMiscellaneous.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Include\Actor\IActorManager.h">
+      <Filter>Include\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Help\ToCSharp.h">
+      <Filter>Help</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Actor\ActorManager.cpp">
+      <Filter>Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Actor\ActorManager.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\Properties\Properties.h">
+      <Filter>Components\Properties</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\Properties\WeaponProperties.h">
+      <Filter>Components\Properties</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\SpawnPoint\SpawnPoint.cpp">
+      <Filter>Components\SpawnPoint</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\SpawnPoint\SpawnPoint.h">
+      <Filter>Components\SpawnPoint</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\Actor\ActorComponent.cpp">
+      <Filter>Components\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\Actor\ActorComponent.h">
+      <Filter>Components\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\Item\ItemComponent.h">
+      <Filter>Components\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\Item\ItemComponent.cpp">
+      <Filter>Components\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\Item\WeaponComponent.h">
+      <Filter>Components\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\GameAPI\Code\Components\Item\WeaponComponent.cpp">
+      <Filter>Components\Item</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Code\GameAPI\Code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\Code\GameAPI\solutions\win64\GameAPI.autogen.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include\Actor">
+      <UniqueIdentifier>{83AAC7EE-B4EE-32E6-98AE-CA3BD8090380}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{3F61675E-CF73-331A-BEEB-88FE656D9F13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Help">
+      <UniqueIdentifier>{BFFB3296-3759-3C5A-AF2B-9C23B234DF40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor">
+      <UniqueIdentifier>{095BFF0F-4FC0-3CCC-9ECB-B98F6F4BFEA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{167773AB-26B6-3E0B-92E2-565D493D0C2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{7D982BC5-109B-38D5-807E-285D39257232}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{91B3B3D7-C562-3273-B043-01D9F10FBD40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Properties">
+      <UniqueIdentifier>{5CB5DE5E-D173-3E97-B603-7E3FC9EDBF55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\SpawnPoint">
+      <UniqueIdentifier>{1A5972C7-E721-3387-A276-DEC89758CAA1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Actor">
+      <UniqueIdentifier>{416F67BC-5754-384C-A219-66CAD12ABE5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Item">
+      <UniqueIdentifier>{D1C6091C-2CF9-39B9-AAC3-DB57C5E67E45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,38 @@
+# CMake generation dependency list for this directory.
+E:/Code/GameAPI/Code/CMakeLists.txt
+E:/Code/GameAPI/solutions/win64/CMakeFiles/3.7.2/CMakeSystem.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/toolchain/windows/WindowsPC-MSVC.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/CRYENGINE-MSVC.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeSystemSpecificInitialize.cmake
+E:/Code/GameAPI/solutions/win64/CMakeFiles/3.7.2/CMakeCCompiler.cmake
+E:/Code/GameAPI/solutions/win64/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeGenericSystem.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/Platform/Windows.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/Platform/WindowsPaths.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeCInformation.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
+E:/Code/GameAPI/solutions/win64/CMakeFiles/3.7.2/CMakeRCCompiler.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeRCInformation.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeCXXInformation.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/CommonOptions.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Configure.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/toolchain/windows/WindowsPC-MSVC.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/CRYENGINE-MSVC.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/CommonOptions.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/CopyFilesToBin.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Bootstrap.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CMakeDependentOption.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/ConfigureChecks.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/Win32/share/cmake-3.7/Modules/CheckFunctionExists.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/CommonMacros.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/modules/Boost.cmake
+D:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.4/Tools/CMake/modules/ncurses.cmake
